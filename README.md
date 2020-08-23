@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Aircnc" title="#teste" src=".github/logo.png" width="250px" />
 </h1>
-<h3 align="center">AirCnC Fullstack project</h3>
+<h3 align="center">Kevin Portfolio</h3>
 
 <h4 align="center">
   🛸 Stay hungry, stay foolish
@@ -9,12 +9,12 @@
 
 <div align="center">
     
-[![languages](https://img.shields.io/github/languages/count/kevdeveloper/fullstackproject-aircnc?style=plastic)]()
-[![Last commit](https://img.shields.io/github/last-commit/kevdeveloper/fullstackproject-aircnc)](https://github.com/kevdeveloper/fullstackproject-aircnc/commits/master)
+[![languages](https://img.shields.io/github/languages/count/kevdeveloper/kevinportfolio?style=plastic)]()
+[![Last commit](https://img.shields.io/github/last-commit/kevdeveloper/kevinportfolio)](https://github.com/kevdeveloper/kevinportfolio/commits/master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![issues](https://img.shields.io/github/issues/kevdeveloper/fullstackproject-aircnc)](https://github.com/kevdeveloper/fullstackproject-aircnc/issues)
+[![issues](https://img.shields.io/github/issues/kevdeveloper/kevinportfolio)](https://github.com/kevdeveloper/kevinportfolio/issues)
 [![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/kevdeveloper)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinfrontend)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnnmn)
 </div>
 
 <p align="center">
@@ -67,7 +67,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kevdeveloper/fullstackproject-aircnc/issues).
+Feel free to check the [issues page](https://github.com/kevdeveloper/kevinportfolio/issues).
 
 
 ## 👍 Show your support
@@ -77,10 +77,7 @@ Give a ⭐️ if you like this project!
 
 ## 🏆 Acknowledgement
 - **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
- Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/simplefolio)
-
-
-
+ Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/simplefolio?color=blue)](https://github.com/cobidev/simplefolio/blob/master/LICENSE.md) 
 
 ## 📝 License
 
