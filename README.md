@@ -6,11 +6,11 @@
 
 <div align="center">
     
-[![languages](https://img.shields.io/github/languages/count/kevdeveloper/kevinportfolio?style=plastic)]()
-[![Last commit](https://img.shields.io/github/last-commit/kevdeveloper/kevinportfolio)](https://github.com/kevdeveloper/kevinportfolio/commits/master)
+[![languages](https://img.shields.io/github/languages/count/kevincappuccino/kevinportfolio?style=plastic)]()
+[![Last commit](https://img.shields.io/github/last-commit/kevincappuccino/kevinportfolio)](https://github.com/kevincappuccino/kevinportfolio/commits/master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![issues](https://img.shields.io/github/issues/kevdeveloper/kevinportfolio)](https://github.com/kevdeveloper/kevinportfolio/issues)
-[![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/kevdeveloper)
+[![issues](https://img.shields.io/github/issues/kevdeveloper/kevinportfolio)](https://github.com/kevincappuccino/kevinportfolio/issues)
+[![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/kevincappuccino)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnmn)
 </div>
 
