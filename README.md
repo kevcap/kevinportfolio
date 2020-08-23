@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="Aircnc" title="#teste" src=".github/logo.png" width="250px" />
-</h1>
 <h3 align="center">Kevin Portfolio</h3>
 
 <h4 align="center">
@@ -14,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![issues](https://img.shields.io/github/issues/kevdeveloper/kevinportfolio)](https://github.com/kevdeveloper/kevinportfolio/issues)
 [![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/kevdeveloper)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnnmn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnmn)
 </div>
 
 <p align="center">
