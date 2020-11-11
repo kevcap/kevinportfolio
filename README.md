@@ -9,9 +9,9 @@
 [![languages](https://img.shields.io/github/languages/count/kevincappuccino/kevinportfolio?style=plastic)]()
 [![Last commit](https://img.shields.io/github/last-commit/kevincappuccino/kevinportfolio)](https://github.com/kevincappuccino/kevinportfolio/commits/master)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-[![issues](https://img.shields.io/github/issues/kevdeveloper/kevinportfolio)](https://github.com/kevincappuccino/kevinportfolio/issues)
+[![issues](https://img.shields.io/github/issues/kevincappuccino/kevinportfolio)](https://github.com/kevincappuccino/kevinportfolio/issues)
 [![Made By](https://img.shields.io/badge/Made%20By-Kevin%20Alves-brightgreen)](https://github.com/kevincappuccino)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kevinfrontend?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnmn)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kevincappuccino?label=Follow%20Kevin%20on%20Twitter&style=social)](https://twitter.com/kevinnnmn)
 </div>
 
 <p align="center">
@@ -33,38 +33,36 @@
 ## Features
 
 ⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout\
+⚡️ One Page Layout built with React\
 ⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
 ⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Optimized with Webpack\
+⚡️ Configurable color scheme\
+⚡️ Image optimization with Gatsby\
+⚡️ Easy site customization\
 ⚡️ Well organized documentation
-
 
 ## 🔧 Built with<a name = "built_using"></a>
 
-
-- [Webpack](https://webpack.js.org/concepts/) - Static module bundler
-- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-end component library
+- [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
+- [GraphQL](https://graphql.org/) - Query language for APIs
+- [React](https://es.reactjs.org/) - Front-End JavaScript library
+- [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
-- [ScrollReveal.js](https://scrollrevealjs.org/) - JavaScript library
-- [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
-- [Popper.js](https://popper.js.org/) - JavaScript popover library
 - [PhotoShop CC](https://adobe.com/) - The most powerfull photo editor ever made;
 
 ## ✒️  Autor <a name = "author"></a>
 
 👤 **Kevin Alves**
 
-- Github: [@kevdeveloper](https://github.com/kevdeveloper)
-- Twitter: [@kevinfrontend](https://twitter.com/kevinfrontend)
-- Linkedin: [@kevinfrontend](https://www.linkedin.com/in/kevinnn/)
+- Github: [@kevincappuccino](https://github.com/kevincappuccino)
+- Twitter: [@kevinnnmn](https://twitter.com/kevinnnmn)
+- Linkedin: [@kevincappuccino](https://www.linkedin.com/in/kevinnn/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/kevdeveloper/kevinportfolio/issues).
+Feel free to check the [issues page](https://github.com/kevincappuccino/kevinportfolio/issues).
 
 
 ## 👍 Show your support
